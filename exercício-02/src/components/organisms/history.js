@@ -1,4 +1,4 @@
-import HistoryItem from "./historyItem";
+import HistoryItem from './historyItem';
 
 function History({ history }) {
     return (

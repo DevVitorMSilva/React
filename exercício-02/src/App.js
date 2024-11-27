@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import './App.css';
-import History from './history';
+import History from './components/organisms/history';
 
 function App() {
     const [firstNumber, setFirstNumber] = useState(0);
