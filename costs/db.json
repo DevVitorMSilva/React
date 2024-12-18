@@ -1,28 +1,6 @@
 {
   "projects": [
     {
-      "id": "f628",
-      "name": "projeto teste",
-      "budget": "5000",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": []
-    },
-    {
-      "id": "aa38",
-      "name": "Meu projeto 3",
-      "budget": "15000",
-      "category": {
-        "id": "3",
-        "name": "Design"
-      },
-      "cost": 0,
-      "services": []
-    },
-    {
       "id": "c45b",
       "name": "Novo projeto",
       "budget": "900",
