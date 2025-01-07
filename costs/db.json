@@ -8,8 +8,15 @@
         "id": "1",
         "name": "Infra"
       },
-      "cost": 0,
-      "services": []
+      "cost": 100,
+      "services": [
+        {
+          "name": "vídeo",
+          "cost": "100",
+          "description": "gravar vídeo",
+          "id": "94d6bb47-eb5f-44e0-a85f-ee5e627b9502"
+        }
+      ]
     },
     {
       "id": "2cab",
